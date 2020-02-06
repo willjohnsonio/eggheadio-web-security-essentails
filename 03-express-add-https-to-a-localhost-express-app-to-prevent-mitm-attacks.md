@@ -26,7 +26,7 @@ Finally in the console.log make sure it opens to https instead of http
 
 Run `sudo npm start` to restart the server and you will get the lock in the address bar
 
-Now is Charles Proxy it has encrypted data and 
+Now is Charles Proxy it has encrypted data and unknown URLS
 
 ## Resources
 
