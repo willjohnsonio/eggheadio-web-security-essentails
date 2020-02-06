@@ -2,7 +2,7 @@
 
 # 01. Web Security Course Overview
 
-**These instuctions are for macOS**
+**These instructions are for macOS**
 
 * Download Charles Proxy [charlesproxy.com/download](https://www.charlesproxy.com/download)
 * Download Git run `git --version` in the command line to check if you have it [git](https://git-scm.com/downloads)
@@ -12,7 +12,7 @@
 
 Make sure you have `sudo` privileges
 
-Open and chnage the hosts file
+Open and change the hosts file
 
 ```bash
 code /etc/hosts
@@ -25,8 +25,8 @@ At the `127.0.01 localhost` line add evil.com and save it.
 
 Run `sudo npm install` from the root of the repo
 
-Then `cd excercises/01` then run `sudo npm start`
+Then `cd exercises/01` then run `sudo npm start`
 
-Vist the http://localhost.charlesproxy.com url there should be a username and password prompt
+Visit the http://localhost.charlesproxy.com url there should be a username and password prompt
 
 Run `sudo npm run start:evil.com` then will start a new server at https://evil.com:666/index.html.
