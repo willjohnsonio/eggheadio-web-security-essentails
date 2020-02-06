@@ -24,3 +24,9 @@ At the `127.0.01 localhost` line add evil.com and save it.
 ```
 
 Run `sudo npm install` from the root of the repo
+
+Then `cd excercises/01` then run `sudo npm start`
+
+Vist the http://localhost.charlesproxy.com url there should be a username and password prompt
+
+Run `sudo npm run start:evil.com` then will start a new server at https://evil.com:666/index.html.
