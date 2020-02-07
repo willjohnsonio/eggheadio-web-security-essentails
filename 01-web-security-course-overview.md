@@ -1,4 +1,4 @@
-[Video Link](https://egghead.io/lessons/react-start-a-virtual-reality-project-with-react-360)
+[Video Link](https://egghead.io/lessons/egghead-web-security-course-overview)
 
 # 01. Web Security Course Overview
 
